@@ -43,8 +43,8 @@
 ## GroovUs 웹사이트 <a href="https://mbc-webcloud.iptime.org:8007/" target=_blank >클릭!</a> 시 홈페이지로 이동합니다.
 
 ### Test 계정 로그인
-ID : user1234  
-PW : 1111qqqq*
+ID : user
+PW : 1111
 <br>
 
 
